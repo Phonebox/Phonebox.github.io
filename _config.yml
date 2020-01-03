@@ -51,9 +51,9 @@ plugins:
 - jemoji
 - jekyll-include-cache
 author:
-  name: First Lastname
+  name: David Cseh
   avatar: "/assets/images/bio-photo.jpg"
-  bio: My awesome biography constrained to a sentence or two goes here.
+  bio: Creating photo based materials for Unity
   links:
   - label: Website
     icon: fas fa-fw fa-link

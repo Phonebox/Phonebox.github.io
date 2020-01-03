@@ -1,7 +1,6 @@
 ---
-title: Posts by Year
+title: Blog
 permalink: "/posts/"
-published: false
 author_profile: true
 layout: posts
 ---

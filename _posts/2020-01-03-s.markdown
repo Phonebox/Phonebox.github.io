@@ -12,6 +12,8 @@ A Stone Wall Unity asset based on an actual photo
 
 ![HDRP Screenshot.PNG](/uploads/HDRP%20Screenshot.PNG)
 
+[![HDRP Stone Wall][/uploads/HDRP%20Screenshot.PNG]][/uploads/HDRP%20Screenshot.PNG]
+
 Hey All!
 
 I just created my first Unity asset, a stone wall based on real photography I made on Gran Canaria, texture features:

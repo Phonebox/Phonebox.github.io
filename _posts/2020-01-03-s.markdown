@@ -1,7 +1,6 @@
 ---
-title: s
+title: Photography based HD Stone Wall - free asset
 date: 2020-01-03 07:47:00 Z
-published: false
 tags:
 - assets
 ---

@@ -60,9 +60,9 @@ author:
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/Phonebox/
-  - label: Instagram
-    icon: fab fa-fw fa-instagram
-    url: https://instagram.com/
+  - label: Asset store
+    icon: fas fa-fw fa-link
+    url: https://assetstore.unity.com/
 footer:
   links:
   - label: Twitter
@@ -71,9 +71,9 @@ footer:
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/Phonebox/
-  - label: Instagram
-    icon: fab fa-fw fa-instagram
-    url: https://instagram.com/
+  - label: Asset store
+    icon: fas fa-fw fa-link
+    url: https://assetstore.unity.com/
 category_archive:
   type: liquid
   path: "/categories/"

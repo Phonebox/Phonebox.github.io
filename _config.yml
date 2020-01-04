@@ -28,7 +28,7 @@ defaults:
 email: info@davidcseh.com
 description: David Cseh's personal website serving as a hub for assets and games created
   by myself.
-twitter_username: david_cs
+twitter_username: thedavidcseh
 github_username: phonebox
 minimal_mistakes_skin: air
 search: true
@@ -56,7 +56,7 @@ author:
     url: https://davidcseh.com
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/davidcs37809381
+    url: https://twitter.com/thedavidcseh
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/Phonebox/
@@ -67,7 +67,7 @@ footer:
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/davidcs37809381
+    url: https://twitter.com/thedavidcseh
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/Phonebox/

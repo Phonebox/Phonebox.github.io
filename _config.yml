@@ -1,10 +1,7 @@
 ---
-title: David Cseh
+title: David Cseh | Games and Assets
 timezone: UTC
 collections:
-  assets:
-    title: Assets
-    output: true
   posts:
     title: Posts
     output: true
@@ -29,11 +26,9 @@ defaults:
     layout: single
     author_profile: true
 email: info@davidcseh.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+description: David Cseh's personal website serving as a hub for assets and games created by myself.
+twitter_username: david_cs
+github_username: phonebox
 minimal_mistakes_skin: air
 search: true
 markdown: kramdown
@@ -53,17 +48,17 @@ plugins:
 author:
   name: David Cseh
   avatar: "/assets/images/bio-photo.jpg"
-  bio: Creating photo based materials for Unity
+  bio: Creating games and photo based materials with Unity
   links:
   - label: Website
     icon: fas fa-fw fa-link
-    url: https://
+    url: https://davidcseh.com
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/
+    url: https://twitter.com/davidcs37809381
   - label: GitHub
     icon: fab fa-fw fa-github
-    url: https://github.com/
+    url: https://github.com/Phonebox/
   - label: Instagram
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/
@@ -71,10 +66,10 @@ footer:
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/
+    url: https://twitter.com/davidcs37809381
   - label: GitHub
     icon: fab fa-fw fa-github
-    url: https://github.com/
+    url: https://github.com/Phonebox/
   - label: Instagram
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/

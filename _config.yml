@@ -26,7 +26,8 @@ defaults:
     layout: single
     author_profile: true
 email: info@davidcseh.com
-description: David Cseh's personal website serving as a hub for assets and games created by myself.
+description: David Cseh's personal website serving as a hub for assets and games created
+  by myself.
 twitter_username: david_cs
 github_username: phonebox
 minimal_mistakes_skin: air

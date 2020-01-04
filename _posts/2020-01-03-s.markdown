@@ -10,11 +10,8 @@ Field name:
 
 A Stone Wall Unity asset based on an actual photo
 
-![HDRP Screenshot.PNG](/uploads/HDRP%20Screenshot.PNG)
-
-[![HDRP Stone Wall][/uploads/HDRP%20Screenshot.PNG]][/uploads/HDRP%20Screenshot.PNG]
-
 [![HDRP Stone Wall](/uploads/HDRP%20Screenshot.PNG)](/uploads/HDRP%20Screenshot.PNG "HDRP Stone Wall")
+*Tip: Click on image to view it full screen*
 
 Hey All!
 

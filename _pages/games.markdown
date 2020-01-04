@@ -1,6 +1,6 @@
 ---
 title: Games
-date: 2020-01-03 14:38:00 Z
+permalink: "/games/"
 ---
 
 VR Squash 2017

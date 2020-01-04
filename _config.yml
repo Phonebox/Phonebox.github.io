@@ -61,7 +61,7 @@ author:
     icon: fab fa-fw fa-github
     url: https://github.com/Phonebox/
   - label: Asset store
-    icon: fas fa-fw fa-link
+    icon: fas fab fa-unity
     url: https://assetstore.unity.com/
 footer:
   links:
@@ -72,7 +72,7 @@ footer:
     icon: fab fa-fw fa-github
     url: https://github.com/Phonebox/
   - label: Asset store
-    icon: fas fa-fw fa-link
+    icon: fas fab fa-unity
     url: https://assetstore.unity.com/
 category_archive:
   type: liquid

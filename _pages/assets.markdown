@@ -4,7 +4,7 @@ permalink: "/assets/"
 ---
 
 ## Photo Based Stone Wall - Free
-[Link - not yet approved](https://assetstore.unity.com/packages/slug/160540)
+[Asset store link](https://assetstore.unity.com/packages/slug/160540)
 
 This asset includes:
 - Demo in standard render pipeline (with a lite and a tiling texture on a plane)
